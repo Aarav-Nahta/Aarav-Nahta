@@ -45,7 +45,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![jQuery](https://img.shields.io/badge/jquery-000.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
@@ -72,6 +72,4 @@
 
 ---
 
-<!-- Holopin -->
 
-[![@pargatdhanjal's Holopin board](https://holopin.io/api/user/board?user=pargatdhanjal)](https://holopin.io/@pargatdhanjal)
