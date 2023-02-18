@@ -1,7 +1,7 @@
 <div align="center">
 
 </div>
-<h1 align="center">Aarav Nahta <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"></h1>
+<h1 align="center">Aarav Nahta </h1>
 <h4 align="center">A developer from Mumbai</h4>
 <!-- Profile views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pargat-dhanjal&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="pargat-dhanjal" /> </p>
@@ -54,6 +54,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 ---
