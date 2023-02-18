@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" src="https://github.com/Pargat-Dhanjal/Pargat-Dhanjal/blob/main/banner.png" alt="header-img" />
+
 </div>
-<h1 align="center">Hi, I'm Pargat Singh <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"></h1>
-<h4 align="center">⚡️ A passionate developer from Mumbai ⚡️</h4>
+<h1 align="center">Aarav Nahta <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"></h1>
+<h4 align="center">A developer from Mumbai</h4>
 <!-- Profile views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pargat-dhanjal&label=Profile%20views&color=blue&style=for-the-badge&logo=eye" alt="pargat-dhanjal" /> </p>
 
