@@ -46,11 +46,11 @@
 
 
 ---
-## Environments
+## Softwares 
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-
+![VsCode]
 ---
 ## Extra Stuff
 
