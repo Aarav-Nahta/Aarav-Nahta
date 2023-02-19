@@ -57,7 +57,7 @@
 ![FamPay](https://img.shields.io/badge/fampay-FFAD00?style=for-the-badge&logo=fampay&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ---
-##Socials 
+## Socials 
 </a>
 <a href="https://instagram.com/aarv.notfound" target="_blank">
 <img src=https://img.shields.io/badge/instagram-9C2FB7.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
