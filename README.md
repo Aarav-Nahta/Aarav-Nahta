@@ -18,7 +18,7 @@
 
 <!-- Skills/ Other Than English -->
 
-## W?
+## Technologies
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,7 +36,7 @@
 ---
 
 
-## Some Designs?
+## Design
 
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
@@ -59,7 +59,7 @@ VsCode
 ---
 ## Socials 
 </a>
-<a href="https://instagram.com/aarav.notfound" target="_blank">
+<a href="https://instagram.com/aarav_nahta" target="_blank">
 <img src=https://img.shields.io/badge/instagram-9C2FB7.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
